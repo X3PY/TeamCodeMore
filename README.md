@@ -1,7 +1,7 @@
 # NEXT 2018-2학기 웹 프로그래밍 심화반
 
 ## 개요
-JavaScript ES6/7을 시작으로 2015년 이후 쓰이는 최신 JavaScript를 공부하고, 이를 이용해 최신 JavaScript Web Framework VueJS를 공부한다. 1학기 때 배웠던 JavaScript를 응용하여 Front-end 기술을 습득한다. 마지막 시간에 발표할 프로젝트로는 1년간 배운 모든 것들을 응용하여 현존하는 웹 서비스의 Clone을 제작하거나 나만의 서비스를 Full Stack으로 만들어본다.
+JavaScript ES6을 비롯한 2015년 이후 쓰이는 최신 JavaScript를 공부하고, 이를 이용해 최신 JavaScript Web Framework인 VueJS를 공부한다. 1학기 때 배웠던 JavaScript를 응용하여 트렌디한 Front-end 기술을 습득한다. 마지막 시간에 발표할 프로젝트로는 1년간 배운 모든 것들을 응용하여 현존하는 웹 서비스의 Clone을 제작하거나 나만의 서비스를 Full Stack으로 만들어본다.
 
 ## 수강대상
 - 멋쟁이사자처럼 고려대학교 1학기 커리큘럼을 성실히 수행한 학생
