@@ -18,13 +18,13 @@ JavaScript ES6을 비롯한 2015년 이후 쓰이는 최신 JavaScript를 공부
 - 9월 10일  : Vue.js 기초 (Vue Instance, Basic Directives)
 - 9월 17일  : Components, Props, Event Listener
 - 9월 24일  : **휴강 (추석)**
-- 10월 1일  : Animations & Transitions
-- 10월 8일  : Rails API Server & Axios
+- 10월 1일  : Vue CLI 3과 Single File Component / Component Lifecycle I
+- 10월 8일  : Component LifeCycle II / Axios / Ruby on Rails API Server
 - 10월 15일 : **휴강 (중간고사)**
 - 10월 22일 : **휴강 (중간고사)**
-- 10월 29일 : 전반기 범위 복습 (with Vue CLI 3.0)
+- 10월 29일 : 전반기 범위 복습
 - 11월 5일  : 웹 개발 프로젝트 기획 발표
-- 11월 12일 : Token Authentication
+- 11월 12일 : Firebase Authentication
 - 11월 19일 : Deploy
 - 11월 26일 : **휴강 (웹 개발 프로젝트)**
 - 12월 3일  : 웹 개발 프로젝트 최종 발표 & 웹 프로그래밍 심화반 종강
